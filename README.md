@@ -1,4 +1,4 @@
-# 破甲 AI 中转站：ChatGPT、GPT-4.1、GLM、Claude、Grok 一站式 AI 模型服务
+# 破甲 AI 中转站：ChatGPT、大肥鱼4.1满血破甲、GLM、Claude、Grok 一站式 AI 模型服务
 
 ![破甲 AI 中转站产品介绍](https://img.cdn1.vip/i/6ace2e4274652_1791897154.webp)
 
@@ -87,11 +87,11 @@
 
 ### 推荐 SEO 描述
 
-破甲 AI 中转站提供 ChatGPT、GPT-4.1、GLM、Claude、Grok 等热门 AI 模型的统一在线入口，适合写作、编程、办公、翻译、总结和团队协作，访问即用，模型与套餐以实时页面为准。
+破甲 AI 中转站提供 ChatGPT、大肥鱼4.1满血破甲、GLM、Claude、Grok 等热门 AI 模型的统一在线入口，适合写作、编程、办公、翻译、总结和团队协作，访问即用，模型与套餐以实时页面为准。
 
 ### 核心关键词
 
-破甲AI、破甲 AI 中转站、AI中转站、ChatGPT中转站、GPT-4.1中转、Claude中转、GLM中转、Grok中转、ChatGPT在线使用、AI模型聚合、国内AI模型服务、中文AI助手、AI写作工具、AI编程助手、AI办公助手。
+破甲AI、破甲 AI 中转站、AI中转站、ChatGPT中转站、大肥鱼4.1满血破甲中转、Claude中转、GLM中转、Grok中转、ChatGPT在线使用、AI模型聚合、国内AI模型服务、中文AI助手、AI写作工具、AI编程助手、AI办公助手。
 
 ### 长尾关键词
 
@@ -138,7 +138,7 @@ http://t.cn/AXlaxUOB
 
 发布到 GitHub 时，建议将仓库描述设置为：
 
-> 破甲 AI 中转站：支持 ChatGPT、GPT-4.1、GLM、Claude、Grok 的一站式 AI 模型服务入口。
+> 破甲 AI 中转站：支持 ChatGPT、大肥鱼4.1满血破甲、GLM、Claude、Grok 的一站式 AI 模型服务入口。
 
 建议仓库名：
 
