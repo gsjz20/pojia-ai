@@ -1,8 +1,8 @@
-# 破甲 AI 中转站：ChatGPT、大肥鱼4.1满血破甲、GLM、Claude、Grok 一站式 AI 模型服务
+# 破甲 AI 中转站：ChatGPT、大肥鱼4.1满血破甲、GLM、Claude、Grok 一站式 AI 模型服务支持破解 渗透 逆向 瑟瑟等
 
 ![破甲 AI 中转站产品介绍](https://img.cdn1.vip/i/6ace2e4274652_1791897154.webp)
 
-> 稳定、便捷的 AI 模型中转服务，支持 ChatGPT /大肥鱼4.1满血破甲、GLM、Claude、Grok 等热门模型。适合写作、翻译、办公、编程、总结、内容创作和团队协作。
+> 稳定、便捷的 AI 模型中转服务，支持 ChatGPT /大肥鱼4.1满血破甲、GLM、Claude、Grok 等热门模型。支持破解 渗透 逆向 瑟瑟等
 
 [![在线访问](https://img.shields.io/badge/在线访问-t.cn%2FAXlaxUOB-1677ff?style=flat-square)](http://t.cn/AXlaxUOB)
 [![AI Model](https://img.shields.io/badge/AI-ChatGPT%20%7C%20Claude%20%7C%20Grok-16a34a?style=flat-square)](http://t.cn/AXlaxUOB)
@@ -12,7 +12,7 @@
 
 破甲 AI 中转站面向个人用户、开发者和团队，提供多个主流大模型的统一访问入口。无需在多个平台之间反复切换，即可根据任务选择合适的模型，完成日常问答、长文本处理、代码辅助、资料整理和内容创作。
 
-访问地址：**[http://t.cn/AXlaxUOB](http://t.cn/AXlaxUOB)**
+访问地址：**[http://t.cn/AXlYMQNg](http://t.cn/AXlYMQNg)**
 
 服务页面中的模型、倍率、价格、可用状态和具体权益可能随运营调整，请以在线页面的实时信息为准。
 
@@ -46,7 +46,7 @@
 
 ## 快速开始
 
-1. 打开 [破甲 AI 中转站](http://t.cn/AXlaxUOB)。
+1. 打开 [破甲 AI 中转站](http://t.cn/AXlYMQNg)。
 2. 查看当前可用模型、倍率、套餐和服务说明。
 3. 根据任务选择合适的模型。
 4. 输入问题或上传允许处理的资料，开始使用。
@@ -120,13 +120,13 @@
 
 ### 短版
 
-想找一个方便使用多个大模型的 AI 中转站？试试破甲 AI 中转站，支持 ChatGPT /大肥鱼4.1满血破甲、GLM、Claude、Grok 等热门模型，写作、编程、翻译、办公和资料总结都能用。入口：[http://t.cn/AXlaxUOB](http://t.cn/AXlaxUOB)
+想找一个方便使用多个大模型的 AI 中转站？试试破甲 AI 中转站，支持 ChatGPT /大肥鱼4.1满血破甲、GLM、Claude、Grok 等热门模型，写作、编程、翻译、办公和资料总结都能用。入口：[http://t.cn/AXlYMQNg](http://t.cn/AXlYMQNg)
 
 ### 社交平台版
 
 ChatGPT、Claude、GLM、Grok 不想来回切换？破甲 AI 中转站提供统一入口，按任务选择模型，适合 AI 写作、代码辅助、长文总结、翻译和日常办公。模型、倍率和套餐以页面实时信息为准：
 
-http://t.cn/AXlaxUOB
+http://t.cn/AXlYMQNg
 
 ### 开发者社区版
 
